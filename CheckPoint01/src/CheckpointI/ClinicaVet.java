@@ -1,4 +1,6 @@
 package CheckpointI;
+//Checkpoint poo em Dupla
+//Dupla: Caio Castro, Carlindo Jr
 
 import java.util.ArrayList;
 // CLASSE CLÍNICA
