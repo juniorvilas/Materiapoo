@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7cd9a779-477f-4fa1-91d6-ff118d1a09b4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Codigos_POO_DH/src/Aula13Interface/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codigos_POO_DH/src/Aula13Interface/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codigos_POO_DH/src/Aula13Interface/GravarImposto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codigos_POO_DH/src/Aula13Interface/Poupanca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codigos_POO_DH/src/Aula14Colecoes/Comparavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codigos_POO_DH/src/Aula14Colecoes/Equipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codigos_POO_DH/src/Aula14Colecoes/Jogador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codigos_POO_DH/src/Aula14Colecoes/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codigos_POO_DH/src/Aula15Mesa/Avaliar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codigos_POO_DH/src/Aula15Mesa/Capitao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codigos_POO_DH/src/Aula15Mesa/Comparar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codigos_POO_DH/src/Aula15Mesa/Embarcacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codigos_POO_DH/src/Aula15Mesa/Iates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codigos_POO_DH/src/Aula15Mesa/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codigos_POO_DH/src/Aula15Mesa/Veleiros.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1y85QF9BiLkBswSZYxgV4MNFrn9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cd9a779-477f-4fa1-91d6-ff118d1a09b4" name="Changes" comment="" />
+      <created>1631620356591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631620356591</updated>
+    </task>
+    <servers />
+  </component>
+</project>
