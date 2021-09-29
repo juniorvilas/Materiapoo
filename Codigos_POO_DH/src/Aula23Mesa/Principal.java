@@ -11,6 +11,7 @@ public class Principal {
         FullStack.addCurso(FrontEnd);
         FullStack.addCurso(BackEnd);
         System.out.println(FullStack.toString());
+        System.out.println("Valor do curso FullStack com 20% de desconto R$ " +FullStack.calcularPreco());
 
 
     }
